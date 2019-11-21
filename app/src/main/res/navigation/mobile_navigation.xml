@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="edu.svsu.projectlayout2.ui.home.HomeFragment"
+        android:label="Home Page"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_description"
+        android:name="edu.svsu.projectlayout2.ui.description.GalleryFragment"
+        android:label="Description"
+        tools:layout="@layout/fragment_description" />
+
+    <fragment
+        android:id="@+id/nav_menu"
+        android:name="edu.svsu.projectlayout2.ui.menu.MenuFragment"
+        android:label="Menu"
+        tools:layout="@layout/fragment_menu" />
+
+    <fragment
+        android:id="@+id/nav_sides"
+        android:name="edu.svsu.projectlayout2.ui.sides.SidesFragment"
+        android:label="Sides"
+        tools:layout="@layout/fragment_sides" />
+
+    <fragment
+        android:id="@+id/nav_deals"
+        android:name="edu.svsu.projectlayout2.ui.deals.DealsFragment"
+        android:label="Deals"
+        tools:layout="@layout/fragment_deals" />
+
+</navigation>
