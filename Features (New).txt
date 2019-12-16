@@ -1,0 +1,5 @@
+1) Home screen with restaurant information and contact information
+2) Navigation bar with selection options
+3) Menu displaying options of entrees
+4) Display for side items and add-ons
+5) Deals page for coupons and other offers
