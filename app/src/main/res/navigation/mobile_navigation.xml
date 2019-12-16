@@ -12,12 +12,6 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_description"
-        android:name="edu.svsu.projectlayout2.ui.description.GalleryFragment"
-        android:label="Description"
-        tools:layout="@layout/fragment_description" />
-
-    <fragment
         android:id="@+id/nav_menu"
         android:name="edu.svsu.projectlayout2.ui.menu.MenuFragment"
         android:label="Menu"

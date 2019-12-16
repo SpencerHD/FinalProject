@@ -18,6 +18,7 @@ class MenuFragment : Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
+
     ): View? {
         menuViewModel =
             ViewModelProviders.of(this).get(MenuViewModel::class.java)

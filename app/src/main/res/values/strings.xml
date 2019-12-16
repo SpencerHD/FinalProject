@@ -13,4 +13,26 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string-array name="menu">
+        <item><b>Burrito</b> - Choose chicken, steak, or vegetarian with your favorite ingredients.</item>
+        <item><b>Burrito Bowl</b> - White or brown rice with a choice of protein and any toppings.</item>
+        <item><b>Nachos</b> - House made chips topped with your protein choice and any toppings.</item>
+        <item><b>Tacos</b> - Soft or hard tortillas filled with fresh ingredients of your picking.</item>
+        <item><b>Salad</b> - Romaine lettuce with tortilla strips and protein, mixed with veggies.</item>
+        <item><b>Quesadilla</b> - Chicken, steak, or just cheese and any veggies, grilled to perfection.</item>
+        <item><b>Tortilla Soup</b> - Our signature soup topped with tortilla strips and sour cream.</item>
+    </string-array>
+    <string-array name="sides">
+        <item><b>Chips and Salsa</b> - House made chips with our freshly chopped pico de gallo salsa.</item>
+        <item><b>Chips and Guacamole</b> - House made chips with our hand-smashed guacamole.</item>
+        <item><b>Chips and Queso</b> - House made chips with our warm four cheese queso.</item>
+        <item><b>Cookie</b> - Warm chocilate chip cookies made fresh by the hour.</item>
+        <item><b>Brownie</b> - Chocolate fudge brownies that are warm and ready to eat.</item>
+        <item><b>Fountain Drink</b> - Your choice of drink from our selection.</item>
+    </string-array>
+    <string-array name="deals">
+        <item><b>First Order BOGO Entrees</b> - By your first entree and get one for free!</item>
+        <item><b>Free Chips and Salsa with Purchase of $10+</b> - Get our favorite side with your purchase.</item>
+        <item><b>Free Cookie or Fountain Drink</b> - Choose a free side item with your next purchase.</item>
+    </string-array>
 </resources>

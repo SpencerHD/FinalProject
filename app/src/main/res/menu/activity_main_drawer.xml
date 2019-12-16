@@ -8,9 +8,6 @@
             android:id="@+id/nav_home"
             android:title="Home" />
         <item
-            android:id="@+id/nav_description"
-            android:title="Description" />
-        <item
             android:id="@+id/nav_menu"
             android:title="Menu" />
         <item
